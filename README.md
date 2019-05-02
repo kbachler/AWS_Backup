@@ -2,8 +2,7 @@
 NOTE:   This program makes a backup to the AWS cloud of the current directory and sub-directories of which Backup.py resides.
 	Assumes that user knows their AWS Credentials for the AWS Access Key ID and AWS Secret Access Key 
 
-*** IMPORTANT -->> PLEASE RUN IN WINDOWS. ***
-This program was Built and Tested in a Windows enviornment. It relies on formatting of 
+*This program was Built and Tested in a Windows enviornment. It relies on formatting of 
 Windows last modified date and time in order to successfully update modified files.
 
 SOFTWARE/TOOLS USED: AWS CLI, Python 3.7.2, and boto3 library. 
